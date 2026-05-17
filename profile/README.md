@@ -1,6 +1,6 @@
 # ADITI Labs AI
 
-ADITI Labs AI is a development space for AI-supported tools, prototypes, and operational infrastructure.
+ADITI Labs AI is a development space for ADITI Labs' AI-supported tools, prototypes, and operational infrastructure.
 
 The organization exists to support active experimentation while keeping work recoverable, understandable, and maintainable over time.
 
@@ -77,5 +77,7 @@ The goal is to build systems and environments that remain understandable enough 
 Early-stage. Active development.
 
 This organization is a working environment, not a finished platform surface.
+
+ADITI Labs LLC
 
 Some repositories may change significantly as projects mature and operational patterns stabilize.
