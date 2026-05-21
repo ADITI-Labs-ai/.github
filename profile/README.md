@@ -53,6 +53,10 @@ Archived coursework, experiments, and implementation artifacts from early AI sys
 
 Public-facing website and supporting brand infrastructure for ADITI Labs.
 
+### `infrastructure-seatbelt`
+
+v.0.1 Internal tool for diagnosing and troubleshooting website infrastructure issues.
+
 ---
 
 ## Working Style
