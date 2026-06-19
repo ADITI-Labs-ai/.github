@@ -53,9 +53,17 @@ Archived coursework, experiments, and implementation artifacts from early AI sys
 
 Public-facing website and supporting brand infrastructure for ADITI Labs.
 
+### 'aditi-website/brand'
+
+Private internal brand-room website, brand token files, and supporting information.
+
 ### `infrastructure-seatbelt`
 
 v.0.1 Internal tool for diagnosing and troubleshooting website infrastructure issues.
+
+### 'Tess"
+
+v 0.1 Production designer bot
 
 ---
 
