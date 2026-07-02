@@ -38,6 +38,10 @@ Current work includes:
 * operational continuity
 * early feedback integration
 
+### 'studio-prototype/feedback'
+
+Feedback corpus - supports learning loop, collaborative review, and planning.
+
 ### `gemma-bot`
 
 Experimental automation and workflow tooling developed during early operational learning and coursework projects.
