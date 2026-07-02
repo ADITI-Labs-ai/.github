@@ -1,6 +1,6 @@
 ![Company Logo](./ASSETS/aditi-ai-navy-orb-and-wordmark-light.svg)
 
-# ADITI Labs AI
+
 
 ADITI Labs AI is a development space for ADITI Labs' AI-supported tools, prototypes, and operational infrastructure.
 
