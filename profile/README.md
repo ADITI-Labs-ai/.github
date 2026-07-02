@@ -12,14 +12,13 @@ Current efforts include conversational systems, workflow tooling, interface expe
 
 The current focus is practical and operational:
 
-* preserve working prototypes
+* build working prototypes
 * improve recoverability and continuity
-* reduce infrastructure fragility
 * separate experiments from durable systems
-* document enough context for future development
-* support iterative learning through real artifacts
+* document sufficient context for future development
+* support iterative learning through artifacts
 
-This organization is intentionally evolving in public through working projects rather than through large theoretical claims.
+ADITI Labs is intentionally evolving in public through working projects.
 
 ---
 
