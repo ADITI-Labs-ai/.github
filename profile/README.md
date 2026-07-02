@@ -1,4 +1,4 @@
-![Company Logo](./Brand/Assets_and_lockups/aditi-ai-navy-orb-and-wordmark-light.svg)
+![Company Logo](./aditi-website/Brand/Assets_and_lockups/aditi-ai-navy-orb-and-wordmark-light.svg)
 
 # ADITI Labs AI
 
