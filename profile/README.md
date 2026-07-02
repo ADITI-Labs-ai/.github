@@ -56,7 +56,11 @@ Public-facing website and supporting brand infrastructure for ADITI Labs.
 
 ### 'aditi-website/brand'
 
-Private internal brand-room website, brand token files, and supporting information.
+Internal internal brand-room website, brand token files, and supporting information.
+
+### 'aditi-website/review'
+
+Internal review room for simultaneous PR review.
 
 ### `infrastructure-seatbelt`
 
