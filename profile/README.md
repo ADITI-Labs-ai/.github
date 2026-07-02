@@ -66,7 +66,7 @@ Internal review room for simultaneous PR review.
 
 v.0.1 Internal tool for diagnosing and troubleshooting website infrastructure issues.
 
-### 'Tess"
+### 'Tess'
 
 v 0.1 Production designer bot
 
