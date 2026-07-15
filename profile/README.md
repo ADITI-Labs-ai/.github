@@ -14,10 +14,10 @@ Current efforts include research into conversational systems, workflow tooling, 
 
 The current focus is practical and operational:
 
-* build working prototypes
+* build working systems
 * improve recoverability and continuity
 * separate experiments from durable systems
-* document sufficient context for future development
+* document sufficient context for ongoing research and development
 * support iterative learning through artifacts
 
 ADITI Labs is intentionally evolving in public through working projects.
