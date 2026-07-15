@@ -30,13 +30,13 @@ ADITI Labs is intentionally evolving in public through working projects.
 
 ### `aditi-labs-foundations`
 
-> Governance repository.
+Governance repository.
 
 > ## Inquiry
 
 ### `aditi-labs-research`
 
-> Research respository.
+Research respository.
 
 > ## Operations
 
