@@ -6,7 +6,7 @@ ADITI Labs AI is a development space for ADITI Labs' AI-supported tools, prototy
 
 The organization exists to support active experimentation while keeping work recoverable, understandable, and maintainable over time.
 
-Current efforts include conversational systems, workflow tooling, interface experiments, and supporting infrastructure for The Studio and related projects.
+Current efforts include research into conversational systems, workflow tooling, interface experiments, and supporting infrastructure for The Studio and related projects.
 
 ---
 
