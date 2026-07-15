@@ -26,13 +26,19 @@ ADITI Labs is intentionally evolving in public through working projects.
 
 ## Repositories
 
-### aditi-labs-foundations'
+> ## Governance and constitutional memory
 
-Governance repository.
+### `aditi-labs-foundations`
+
+> Governance repository.
+
+> ## Inquiry
 
 ### `aditi-labs-research`
 
-Research respository.
+> Research respository.
+
+> ## Operations
 
 ### `studio-prototype`
 
@@ -58,29 +64,31 @@ Experimental automation and workflow tooling developed during early operational 
 
 Supporting diagnostic and infrastructure tooling for prototype testing and behavioral observation.
 
-### `mit-coursework-archive`
-
-Archived coursework, experiments, and implementation artifacts from early AI systems learning and development work.
-
 ### `aditi-website`
 
-Public-facing website and supporting brand infrastructure for ADITI Labs.
+> Public-facing website and supporting brand infrastructure for ADITI Labs.
 
 ### `aditi-website/brand`
 
-Internal brand-room website, brand token files, and supporting information.
+> Internal brand-room website, brand token files, and supporting information.
 
 ### `aditi-website/review`
 
-Internal review room for simultaneous PR review.
+> v 0.1 Internal review room for simultaneous PR review.
 
 ### `infrastructure-seatbelt`
 
-v.0.1 Internal tool for diagnosing and troubleshooting website infrastructure issues.
+> v.0.1 Internal tool for diagnosing and troubleshooting website infrastructure issues.
 
 ### `Tess`
 
-v 0.1 Production designer bot
+> v 0.1 Production designer bot
+
+> ## Archive
+
+### `mit-coursework-archive`
+
+> Archived coursework, experiments, and implementation artifacts from early AI systems learning and development work.
 
 ---
 
