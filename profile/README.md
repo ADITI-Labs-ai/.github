@@ -2,7 +2,7 @@
 
 
 
-ADITI Labs AI is a development space for ADITI Labs' AI-supported tools, prototypes, and operational infrastructure.
+ADITI Labs AI is a development space for ADITI Labs' AI-supported tools, prototypes, research, and operational infrastructure.
 
 The organization exists to support active experimentation while keeping work recoverable, understandable, and maintainable over time.
 
@@ -26,25 +26,33 @@ ADITI Labs is intentionally evolving in public through working projects.
 
 ## Repositories
 
+### aditi-labs-foundations'
+
+Governance repository.
+
+### `aditi-labs-research`
+
+Research respository.
+
 ### `studio-prototype`
 
-A live prototype exploring AI-supported reflection, planning, and talent-development workflows.
+A public research environment exploring AI-supported reflection, planning, and talent-development workflows.
 
 Current work includes:
 
-* interface refinement
-* prompt and interaction testing
-* diagnostic tooling
-* operational continuity
-* early feedback integration
+> * interface refinement
+> * prompt and interaction testing
+> * diagnostic tooling
+> * operational continuity
+> * external tester feedback integration
 
-### 'studio-prototype/feedback'
+### `studio-prototype/feedback`
 
-Feedback corpus - supports learning loop, collaborative review, and planning.
+The Studio's repo for learning loop, collaborative review, and planning.
 
 ### `gemma-bot`
 
-Experimental automation and workflow tooling developed during early operational learning and coursework projects.
+Experimental automation and workflow tooling developed during early operational learning. 
 
 ### `backstage-worker`
 
@@ -58,11 +66,11 @@ Archived coursework, experiments, and implementation artifacts from early AI sys
 
 Public-facing website and supporting brand infrastructure for ADITI Labs.
 
-### 'aditi-website/brand'
+### `aditi-website/brand`
 
-Internal internal brand-room website, brand token files, and supporting information.
+Internal brand-room website, brand token files, and supporting information.
 
-### 'aditi-website/review'
+### `aditi-website/review`
 
 Internal review room for simultaneous PR review.
 
@@ -70,7 +78,7 @@ Internal review room for simultaneous PR review.
 
 v.0.1 Internal tool for diagnosing and troubleshooting website infrastructure issues.
 
-### 'Tess'
+### `Tess`
 
 v 0.1 Production designer bot
 
