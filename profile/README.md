@@ -1,120 +1,87 @@
-![Company Logo](./ASSETS/aditi-ai-navy-orb-and-wordmark-light.svg)
+![ADITI Labs logo](./ASSETS/aditi-ai-navy-orb-and-wordmark-light.svg)
 
-
-
-ADITI Labs AI is a development space for ADITI Labs' AI-supported tools, prototypes, research, and operational infrastructure.
-
-The organization exists to support active experimentation while keeping work recoverable, understandable, and maintainable over time.
-
-Current efforts include research into conversational systems, workflow tooling, interface experiments, and supporting infrastructure for The Studio and related projects.
+# ADITI Labs
 
 ---
 
-## Current Priorities
+ADITI Labs develops human-centered AI systems, tools, and working environments designed to support clearer thinking, better collaboration, and sustainable human judgment.
 
-The current focus is practical and operational:
+Our work explores how AI can become a thoughtful participant in creative, operational, and organizational practice without displacing human responsibility.
 
-* build working systems
-* improve recoverability and continuity
-* separate experiments from durable systems
-* document sufficient context for ongoing research and development
-* support iterative learning through artifacts
+Current areas of work include:
 
-ADITI Labs is intentionally evolving in public through working projects.
+- conversational and reflective AI systems
+- AI-supported collaboration and review
+- human-centered interface research
+- responsible workflow design
+- tools for operational clarity and continuity
+- brand and production systems for AI-enabled products
 
 ---
 
-## Repositories
+## The Studio
 
-> ## Governance and constitutional memory
+The Studio is an experimental guided environment for helping people find useful next moves in complex or ambiguous situations.
 
-### `aditi-labs-foundations`
+Current research focuses on:
 
-Governance repository.
+- interaction quality
+- trust and pacing
+- human–AI collaboration
+- attentional support
+- practical usefulness
+- responsible boundaries
 
-> ## Inquiry
+The Studio remains under active development and testing.
 
-### `aditi-labs-research`
+---
 
-Research respository.
+## How we work
 
-> ## Operations
+ADITI Labs favors:
+
+- human judgment over automatic authority
+- clear, reviewable changes
+- practical experimentation
+- thoughtful use of evidence
+- accessible and maintainable systems
+- iterative learning through real use
+- simplicity where complexity does not earn its keep
+
+We believe useful AI systems should remain understandable enough to question, improve, and govern.
+
+---
+
+## Selected repositories
 
 ### `studio-prototype`
 
-A public research environment exploring AI-supported reflection, planning, and talent-development workflows.
-
-Current work includes:
-
-> * interface refinement
-> * prompt and interaction testing
-> * diagnostic tooling
-> * operational continuity
-> * external tester feedback integration
-
-### `studio-prototype/feedback`
-
-The Studio's repo for learning loop, collaborative review, and planning.
-
-### `gemma-bot`
-
-Experimental automation and workflow tooling developed during early operational learning. 
-
-### `backstage-worker`
-
-Supporting diagnostic and infrastructure tooling for prototype testing and behavioral observation.
+Prototype and research work supporting The Studio.
 
 ### `aditi-website`
 
-> Public-facing website and supporting brand infrastructure for ADITI Labs.
+Public website, Brand Room, Review Room, shared design assets, and implementation playbooks.
 
-### `aditi-website/brand`
+### `aditi-labs-research`
 
-> Internal brand-room website, brand token files, and supporting information.
-
-### `aditi-website/review`
-
-> v 0.1 Internal review room for simultaneous PR review.
+Research notes, questions, and selected inquiry artifacts.
 
 ### `infrastructure-seatbelt`
 
-> v.0.1 Internal tool for diagnosing and troubleshooting website infrastructure issues.
-
-### `Tess`
-
-> v 0.1 Production designer bot
-
-> ## Archive
+Experimental tooling for diagnosing and understanding website infrastructure issues.
 
 ### `mit-coursework-archive`
 
-> Archived coursework, experiments, and implementation artifacts from early AI systems learning and development work.
+Archived coursework and implementation artifacts from earlier applied AI systems study.
 
----
-
-## Working Style
-
-ADITI Labs AI favors:
-
-* human-readable documentation
-* small, recoverable changes
-* practical experimentation
-* calm operational clarity
-* artifact-driven learning
-* iterative refinement over grand declarations
-
-The goal is not maximal complexity.
-
-The goal is to build systems and environments that remain understandable enough to evolve.
+Other repositories may support active experiments, internal tooling, or evolving workshop infrastructure.
 
 ---
 
 ## Status
 
-Early-stage. Active development.
+ADITI Labs is an early-stage company in active development.
 
-This organization is a working environment, not a finished platform surface.
+Some repositories are exploratory. Others support durable products and operating systems. Public visibility does not necessarily indicate that a project is released, supported, or ready for external use.
 
 ADITI Labs LLC
-
-Some repositories may change significantly as projects mature and operational patterns stabilize.
