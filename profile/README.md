@@ -82,6 +82,8 @@ Other repositories may support active experiments, internal tooling, or evolving
 
 ADITI Labs is an early-stage company in active development.
 
+We share selected working artifacts and research as projects mature.
+
 Some repositories are exploratory. Others support durable products and operating systems. Public visibility does not necessarily indicate that a project is released, supported, or ready for external use.
 
 ADITI Labs LLC
